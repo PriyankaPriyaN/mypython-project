@@ -1,0 +1,1 @@
+The essential topics in basic Python programming include variables, data types (such as strings, integers, floats, lists, tuples, dictionaries), control structures (if statements, loops), functions, modules, and file handling.
